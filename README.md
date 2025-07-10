@@ -22,3 +22,16 @@ src/
 │   ├── controllers/     # Handle HTTP requests
 │   └── presenters/      # Format responses
 └── main.js              # Dependency injection & app startup
+```
+
+Key Clean Architecture Principles:
+
+Dependency Inversion: The inner layers (domain) don't depend on outer layers (infrastructure). The UserRepository interface is defined in the domain, but implemented in the infrastructure layer.
+Separation of Concerns: Each layer has a specific responsibility:
+
+Domain: Business logic and rules
+Infrastructure: External services (database, web server)
+Interface: Controllers that handle HTTP requests
+
+
+Independence: You can easily switch from MySQL to PostgreSQL, or from Express to Fastify, without changing your business logic.
