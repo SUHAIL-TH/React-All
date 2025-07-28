@@ -1,4 +1,4 @@
-Will cover clean artiteture with node js and prisma  =>stay clam
+Will cover clean artiteture with node js and prisma  =>stay positive
 ## What is Clean Architecture?
 
 Clean Architecture is a software design philosophy that separates concerns into layers, making your code:
