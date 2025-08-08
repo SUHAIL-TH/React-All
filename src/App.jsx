@@ -11,9 +11,7 @@ function App() {
   return (
     <>
   
-    <h1>hello suhail  </h1>
     <ReducerCom></ReducerCom>
-  
 
     </>
   )
