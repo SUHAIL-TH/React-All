@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 
 import {ReducerCom} from './component/ReducerCom'
-//provieder implementation
+
 function App() {
  
 
