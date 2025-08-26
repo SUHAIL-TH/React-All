@@ -1,6 +1,6 @@
 name :MY-REACT-APP-CI
 
-on:
+"on":
   push:
     branches:['master']
   pull:
