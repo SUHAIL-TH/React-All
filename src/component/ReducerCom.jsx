@@ -1,4 +1,4 @@
-//reducer implemention for counter 
+
 import React, { useReducer } from 'react'
 
 const initialtSate={count:0}
