@@ -1,4 +1,5 @@
 //this will cover all the react topic here with question answer for prepareation for interveiw
+//add react topic with example
 
 Will cover clean artiteture with node js and prisma  =>stay positive
 ## What is Clean Architecture?
